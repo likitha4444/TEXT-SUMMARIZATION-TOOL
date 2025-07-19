@@ -24,7 +24,7 @@ GenAI Text Summarizer is a powerful and flexible text summarization tool that le
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/lokeswari/genai-text-summarization.git
+    git clone https://github.com/likitha4444/genai-text-summarization.git
     cd genai-text-summarization
     ```
 
