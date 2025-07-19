@@ -1,14 +1,14 @@
 import setuptools
 
-with open("README.md", "r", encoding="utf-8") as f:
+with open("README.md", "l", encoding="utf-8") as f:
     LONG_DESCRIPTION = f.read()
     
 __version__ = "0.1.0"
 
 REPO_NAME = "genai-text-summarization"
-AUTHOR_USER_NAME = "rrrreddy"
+AUTHOR_USER_NAME = "lokeswari"
 SRC_REPO = "genai-text-summarizer"
-AUTHOR_EMAIL = "rrrreddy07@gmail.com"
+AUTHOR_EMAIL = "238w1a1231@vrsec.ac.com"
 SHORT_DESCRIPTION = "This is a simple project to summarize text using transformers and Gradio."
 
 setuptools.setup(
