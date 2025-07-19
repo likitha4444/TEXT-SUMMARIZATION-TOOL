@@ -6,7 +6,7 @@ with open("README.md", "l", encoding="utf-8") as f:
 __version__ = "0.1.0"
 
 REPO_NAME = "genai-text-summarization"
-AUTHOR_USER_NAME = "lokeswari"
+AUTHOR_USER_NAME = "likitha4444"
 SRC_REPO = "genai-text-summarizer"
 AUTHOR_EMAIL = "238w1a1231@vrsec.ac.com"
 SHORT_DESCRIPTION = "This is a simple project to summarize text using transformers and Gradio."
